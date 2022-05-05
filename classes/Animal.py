@@ -7,3 +7,6 @@ class Animal:
     
     def saludar(self):
         print("Hola, mi nombre es frailejon Hernesto Perez")
+
+    def saludar1(self):
+        print("Hola")
